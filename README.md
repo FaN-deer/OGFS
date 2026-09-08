@@ -6,7 +6,7 @@ This repository provides the supplementary data for the paper:
 
 - System topology and line parameters of the anonymized oilfield distribution network
 - Equipment parameters (OM, AG, EH, HS, ES, PV, MDG, MES)
-- Gathering pipeline network parameters (thermal, hydraulic, wax deposition)
+- Gathering pipeline network parameters 
 - PV generation forecast profiles
 - Cost coefficients and other operational parameters
 
