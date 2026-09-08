@@ -1,4 +1,4 @@
-# Supplementary Data
+## Supplementary Data
 
 This repository provides the supplementary data for the paper:
 
